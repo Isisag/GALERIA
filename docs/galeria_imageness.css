@@ -110,7 +110,10 @@ header{
 }
 
 /**** G A L E R I A ****/
-
+ .galeria-seccion{
+   margin: 2rem auto;
+ }
+ 
 .galeria {
   display: grid;
   width: 100%;
